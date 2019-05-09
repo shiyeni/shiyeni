@@ -11,7 +11,7 @@ header{
 #intro{
   color: black;
   background-size: cover;
-  background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res40/70000/70801-Eastern-Beach.jpg");
+  background-image: url("east.jpg");
   filter: brightness(100%);
 }
 .mask{
